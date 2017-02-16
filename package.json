@@ -1,0 +1,31 @@
+{
+  "name": "webpack-write-stats-plugin",
+  "version": "0.0.1",
+  "description": "Webpack plugin that writes the stats information to a defined file on build completion.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "src/"
+  ],
+  "keywords": [
+    "webpack",
+    "plugin",
+    "done",
+    "stats",
+    "write",
+    "file"
+  ],
+  "author": "dennis@inlineblock.com",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.14.1",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0",
+    "jest": "^18.1.0"
+  }
+}
